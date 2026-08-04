@@ -1,0 +1,12 @@
+name: geoskill-spatial-regression
+display_name: 空间回归分析
+description: |
+  OLS空间诊断+SLM/SEM空间回归模型
+version: 0.1.0
+author: Mavis
+entrypoint: geoskill-spatial-regression.py
+runtime: python>=3.9
+tags:
+  - gis
+  - machine-learning
+  - remote-sensing
